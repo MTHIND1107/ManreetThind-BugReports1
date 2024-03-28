@@ -1,9 +1,8 @@
 ## Introduction
-Welcome to  YourName-BugReports! This pubic repository serves as the central hub to create a GitHub repository, develop an issue template for bug reporting, and
-submit a detailed bug report on any software of your choice.
+Welcome to  ManreetThind-BugReports! This pubic repository serves as the central hub to create a GitHub repository, develop an issue template for bug reporting.
 
 ### Purpose
-YourName-BugReports aims to familiarize us with the processes of bug identification, reporting, and the use of GitHub as a tool for project management and collaboration in software development. Through the practical application of identifying and documenting software bugskey features or functionalities, we strive to engage in the software development lifecycle.
+ManreetThind-BugReports aims to familiarize us with the processes of bug identification, reporting, and the use of GitHub as a tool for project management and collaboration in software development. Through the practical application of identifying and documenting software bugskey features or functionalities, we strive to engage in the software development lifecycle.
 
 ### Features
 
